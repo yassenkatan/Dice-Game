@@ -1,0 +1,31 @@
+h1{font-size:4rem; color:maroon;}
+.container{
+    
+    padding: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.dice
+{
+  display: inline-block;
+  padding: 30px;
+    color: black;
+    font-size: 2rem;
+}
+body{
+    margin:  auto;
+    background-color:silver;
+}
+.nav-bar{
+    background-color: grey;
+    border-style:solid;
+    border-color: maroon;
+    border-radius: 10px;
+}
+hr{
+    width: 100px;
+    border-radius: 30px;
+   border-color: maroon;
+   border-width: 3px;
+}
